@@ -1,0 +1,667 @@
+View Symbol Index (0 ~ 139) :
+0
+Fc :
+3600000000
+Duplex (0 : FDD, 1 : TDD) :
+1
+Profile (0 : 5MHz, 1 : 10MHz, 2 : 15MHz, 3 : 20MHz, ..., 12 : 100MHz) :
+12
+Cell ID Auto (0 : Manual, 1 : Auto) :
+0
+Cell ID (0 ~ 1007) :
+1
+Numerology (0 : Single, 1 : Multiple) :
+0
+SCS (0 : 15kHz, 1 : 30kHz, 2 : 60kHz, 3 : 120kHz, 4 : 240kHz) :
+1
+Sync Type (0 : SSB, 1 : DMRS) :
+1
+Meas Start Slot :
+0
+Meas Stop Slot :
+19
+Symbol Phase Correction (0 : Off, 1 : On) :
+1
+Frame Info -> dl-ul Transmission Period (0 : 0.5ms, 1 : 0.625ms, 2 : 1ms, 3 : 1.25ms, 4 : 2ms, 5 : 2.5ms, 6 : 5ms, 7 : 10ms) :
+6
+Frame Info -> DL Slot :
+7
+Frame Info -> DL symbols (0 ~ 14) :
+6
+Frame Info -> UL Slot :
+2
+Frame Info -> UL symbols (0 ~ 14) :
+4
+BWP Info[0] -> state (0 : Off, 1 : On) :
+0
+BWP Info[0] -> SCS (0 : 15kHz, 1 : 30kHz, 2 : 60kHz, 3 : 120kHz, 4 : 240kHz) :
+1
+BWP Info[0] -> N_RB_Start :
+0
+BWP Info[0] -> N_RB_Size :
+273
+BWP Info[0] -> Num CORESET (1 ~ 3) :
+1
+BWP Info[0] -> CORESET[0] -> State (0 : Off, 1 : On) :
+0
+BWP Info[0] -> CORESET[0] -> RB Offset :
+-1
+BWP Info[0] -> CORESET[0] -> RB Number :
+24
+BWP Info[0] -> CORESET[0] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[0] -> CORESET[0] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[0] -> CORESET[0] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[0] -> CORESET[0] -> Interleave Size (2|3|6) :
+2
+BWP Info[0] -> CORESET[0] -> Shift Index (0 ~ 270) :
+0
+BWP Info[0] -> CORESET[0] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[0] -> CORESET[1] -> State (0 : Off, 1 : On) :
+0
+BWP Info[0] -> CORESET[1] -> RB Offset :
+-1
+BWP Info[0] -> CORESET[1] -> RB Number :
+24
+BWP Info[0] -> CORESET[1] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[0] -> CORESET[1] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[0] -> CORESET[1] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[0] -> CORESET[1] -> Interleave Size (2|3|6) :
+2
+BWP Info[0] -> CORESET[1] -> Shift Index (0 ~ 270) :
+0
+BWP Info[0] -> CORESET[1] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[0] -> CORESET[2] -> State (0 : Off, 1 : On) :
+0
+BWP Info[0] -> CORESET[2] -> RB Offset :
+-1
+BWP Info[0] -> CORESET[2] -> RB Number :
+24
+BWP Info[0] -> CORESET[2] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[0] -> CORESET[2] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[0] -> CORESET[2] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[0] -> CORESET[2] -> Interleave Size (2|3|6) :
+2
+BWP Info[0] -> CORESET[2] -> Shift Index (0 ~ 270) :
+0
+BWP Info[0] -> CORESET[2] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[1] -> state (0 : Off, 1 : On) :
+1
+BWP Info[1] -> SCS (0 : 15kHz, 1 : 30kHz, 2 : 60kHz, 3 : 120kHz, 4 : 240kHz) :
+1
+BWP Info[1] -> N_RB_Start :
+0
+BWP Info[1] -> N_RB_Size :
+273
+BWP Info[1] -> Num CORESET (1 ~ 3) :
+1
+BWP Info[1] -> CORESET[0] -> State (0 : Off, 1 : On) :
+1
+BWP Info[1] -> CORESET[0] -> RB Offset :
+-1
+BWP Info[1] -> CORESET[0] -> RB Number :
+100000000000
+BWP Info[1] -> CORESET[0] -> Symbol Number (1 ~ 3) :
+2
+BWP Info[1] -> CORESET[0] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[1] -> CORESET[0] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[1] -> CORESET[0] -> Interleave Size (2|3|6) :
+2
+BWP Info[1] -> CORESET[0] -> Shift Index (0 ~ 270) :
+0
+BWP Info[1] -> CORESET[0] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[1] -> CORESET[1] -> State (0 : Off, 1 : On) :
+0
+BWP Info[1] -> CORESET[1] -> RB Offset :
+-1
+BWP Info[1] -> CORESET[1] -> RB Number :
+100000000000
+BWP Info[1] -> CORESET[1] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[1] -> CORESET[1] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[1] -> CORESET[1] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[1] -> CORESET[1] -> Interleave Size (2|3|6) :
+2
+BWP Info[1] -> CORESET[1] -> Shift Index (0 ~ 270) :
+0
+BWP Info[1] -> CORESET[1] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[1] -> CORESET[2] -> State (0 : Off, 1 : On) :
+0
+BWP Info[1] -> CORESET[2] -> RB Offset :
+-1
+BWP Info[1] -> CORESET[2] -> RB Number :
+24
+BWP Info[1] -> CORESET[2] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[1] -> CORESET[2] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[1] -> CORESET[2] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[1] -> CORESET[2] -> Interleave Size (2|3|6) :
+2
+BWP Info[1] -> CORESET[2] -> Shift Index (0 ~ 270) :
+0
+BWP Info[1] -> CORESET[2] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+
+BWP Info[2] -> state (0 : Off, 1 : On) :
+0
+BWP Info[2] -> SCS (0 : 15kHz, 1 : 30kHz, 2 : 60kHz, 3 : 120kHz, 4 : 240kHz) :
+1
+BWP Info[2] -> N_RB_Start :
+0
+BWP Info[2] -> N_RB_Size :
+273
+BWP Info[2] -> Num CORESET (1 ~ 3) :
+1
+BWP Info[2] -> CORESET[0] -> State (0 : Off, 1 : On) :
+0
+BWP Info[2] -> CORESET[0] -> RB Offset :
+-1
+BWP Info[2] -> CORESET[0] -> RB Number :
+24
+BWP Info[2] -> CORESET[0] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[2] -> CORESET[0] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[2] -> CORESET[0] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[2] -> CORESET[0] -> Interleave Size (2|3|6) :
+2
+BWP Info[2] -> CORESET[0] -> Shift Index (0 ~ 270) :
+0
+BWP Info[2] -> CORESET[0] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[2] -> CORESET[1] -> State (0 : Off, 1 : On) :
+0
+BWP Info[2] -> CORESET[1] -> RB Offset :
+-1
+BWP Info[2] -> CORESET[1] -> RB Number :
+24
+BWP Info[2] -> CORESET[1] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[2] -> CORESET[1] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[2] -> CORESET[1] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[2] -> CORESET[1] -> Interleave Size (2|3|6) :
+2
+BWP Info[2] -> CORESET[1] -> Shift Index (0 ~ 270) :
+0
+BWP Info[2] -> CORESET[1] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[2] -> CORESET[2] -> State (0 : Off, 1 : On) :
+0
+BWP Info[2] -> CORESET[2] -> RB Offset :
+-1
+BWP Info[2] -> CORESET[2] -> RB Number :
+24
+BWP Info[2] -> CORESET[2] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[2] -> CORESET[2] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[2] -> CORESET[2] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[2] -> CORESET[2] -> Interleave Size (2|3|6) :
+2
+BWP Info[2] -> CORESET[2] -> Shift Index (0 ~ 270) :
+0
+BWP Info[2] -> CORESET[2] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[3] -> state (0 : Off, 1 : On) :
+0
+BWP Info[3] -> SCS (0 : 15kHz, 1 : 30kHz, 2 : 60kHz, 3 : 120kHz, 4 : 240kHz) :
+1
+BWP Info[3] -> N_RB_Start :
+0
+BWP Info[3] -> N_RB_Size :
+273
+BWP Info[3] -> Num CORESET (1 ~ 3) :
+1
+BWP Info[3] -> CORESET[0] -> State (0 : Off, 1 : On) :
+0
+BWP Info[3] -> CORESET[0] -> RB Offset :
+-1
+BWP Info[3] -> CORESET[0] -> RB Number :
+24
+BWP Info[3] -> CORESET[0] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[3] -> CORESET[0] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[3] -> CORESET[0] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[3] -> CORESET[0] -> Interleave Size (2|3|6) :
+2
+BWP Info[3] -> CORESET[0] -> Shift Index (0 ~ 270) :
+0
+BWP Info[3] -> CORESET[0] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[3] -> CORESET[1] -> State (0 : Off, 1 : On) :
+0
+BWP Info[3] -> CORESET[1] -> RB Offset :
+-1
+BWP Info[3] -> CORESET[1] -> RB Number :
+24
+BWP Info[3] -> CORESET[1] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[3] -> CORESET[1] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[3] -> CORESET[1] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[3] -> CORESET[1] -> Interleave Size (2|3|6) :
+2
+BWP Info[3] -> CORESET[1] -> Shift Index (0 ~ 270) :
+0
+BWP Info[3] -> CORESET[1] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[3] -> CORESET[2] -> State (0 : Off, 1 : On) :
+0
+BWP Info[3] -> CORESET[2] -> RB Offset :
+-1
+BWP Info[3] -> CORESET[2] -> RB Number :
+24
+BWP Info[3] -> CORESET[2] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[3] -> CORESET[2] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[3] -> CORESET[2] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[3] -> CORESET[2] -> Interleave Size (2|3|6) :
+2
+BWP Info[3] -> CORESET[2] -> Shift Index (0 ~ 270) :
+0
+BWP Info[3] -> CORESET[2] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[4] -> state (0 : Off, 1 : On) :
+0
+BWP Info[4] -> SCS (0 : 15kHz, 1 : 30kHz, 2 : 60kHz, 3 : 120kHz, 4 : 240kHz) :
+1
+BWP Info[4] -> N_RB_Start :
+0
+BWP Info[4] -> N_RB_Size :
+273
+BWP Info[4] -> Num CORESET (1 ~ 3) :
+1
+BWP Info[4] -> CORESET[0] -> State (0 : Off, 1 : On) :
+0
+BWP Info[4] -> CORESET[0] -> RB Offset :
+-1
+BWP Info[4] -> CORESET[0] -> RB Number :
+24
+BWP Info[4] -> CORESET[0] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[4] -> CORESET[0] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[4] -> CORESET[0] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[4] -> CORESET[0] -> Interleave Size (2|3|6) :
+2
+BWP Info[4] -> CORESET[0] -> Shift Index (0 ~ 270) :
+0
+BWP Info[4] -> CORESET[0] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[4] -> CORESET[1] -> State (0 : Off, 1 : On) :
+0
+BWP Info[4] -> CORESET[1] -> RB Offset :
+-1
+BWP Info[4] -> CORESET[1] -> RB Number :
+24
+BWP Info[4] -> CORESET[1] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[4] -> CORESET[1] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[4] -> CORESET[1] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[4] -> CORESET[1] -> Interleave Size (2|3|6) :
+2
+BWP Info[4] -> CORESET[1] -> Shift Index (0 ~ 270) :
+0
+BWP Info[4] -> CORESET[1] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+BWP Info[4] -> CORESET[2] -> State (0 : Off, 1 : On) :
+0
+BWP Info[4] -> CORESET[2] -> RB Offset :
+-1
+BWP Info[4] -> CORESET[2] -> RB Number :
+24
+BWP Info[4] -> CORESET[2] -> Symbol Number (1 ~ 3) :
+1
+BWP Info[4] -> CORESET[2] -> CCE to REG Map (0 : Non-Interleave, 1 : Interleave) :
+0
+BWP Info[4] -> CORESET[2] -> REG Bundle Size (2|3|6) :
+6
+BWP Info[4] -> CORESET[2] -> Interleave Size (2|3|6) :
+2
+BWP Info[4] -> CORESET[2] -> Shift Index (0 ~ 270) :
+0
+BWP Info[4] -> CORESET[2] -> Precoder Granularity (0 : REG Bundle Size, 1 : Contiguous RB) :
+0
+PDCCH Info[0] -> State (0 : Off, 1 : On) :
+1
+PDCCH Info[0] -> RNTI :
+0
+PDCCH Info[0] -> C-RNTI :
+0
+PDCCH Info[0] -> BWP (0 ~ 4) :
+1
+PDCCH Info[0] -> CORESET ID (0 ~ 2) :
+1
+PDCCH Info[0] -> Allocated Slot (Range : 0 ~ 79)
+1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 0 0
+PDCCH Info[0] -> First Symbol (0 ~ 13) :
+0
+PDCCH Info[0] -> Search Space (0 : CSS, 1 : USS) :
+1
+PDCCH Info[0] -> Aggregation Level (1|2|4|8|16) :
+1
+PDCCH Info[0] -> Number of Candidates (1 ~ 8) :
+4
+PDCCH Info[0] -> Candidate Index (0 ~ num of candidates - 1) :
+0
+PDCCH Info[0] -> DCI Size :
+20
+PDCCH Info[0] -> PDCCH DMRS Scramling ID :
+-1
+PDCCH Info[0] -> Power Boosting :
+0
+PDCCH Info[0] -> DMRS Powe Boosting :
+0
+PDCCH Info[1] -> State (0 : Off, 1 : On) :
+0
+PDCCH Info[1] -> RNTI :
+0
+PDCCH Info[1] -> C-RNTI :
+0
+PDCCH Info[1] -> BWP (0 ~ 4) :
+1
+PDCCH Info[1] -> CORESET ID (0 ~ 2) :
+1
+PDCCH Info[1] -> Allocated Slot (Range : 0 ~ 79)
+1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 0 0
+PDCCH Info[1] -> First Symbol (0 ~ 13) :
+0
+PDCCH Info[1] -> Search Space (0 : CSS, 1 : USS) :
+1
+PDCCH Info[1] -> Aggregation Level (1|2|4|8|16) :
+1
+PDCCH Info[1] -> Number of Candidates (1 ~ 8) :
+4
+PDCCH Info[1] -> Candidate Index (0 ~ num of candidates - 1) :
+0
+PDCCH Info[1] -> DCI Size :
+20
+PDCCH Info[1] -> PDCCH DMRS Scramling ID :
+-1
+PDCCH Info[1] -> Power Boosting :
+0
+PDCCH Info[1] -> DMRS Powe Boosting :
+0
+PDCCH Info[2] -> State (0 : Off, 1 : On) :
+0
+PDCCH Info[2] -> RNTI :
+0
+PDCCH Info[2] -> C-RNTI :
+0
+PDCCH Info[2] -> BWP (0 ~ 4) :
+1
+PDCCH Info[2] -> CORESET ID (0 ~ 2) :
+1
+PDCCH Info[2] -> Allocated Slot (Range : 0 ~ 79)
+1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 0 0
+PDCCH Info[2] -> First Symbol (0 ~ 13) :
+0
+PDCCH Info[2] -> Search Space (0 : CSS, 1 : USS) :
+1
+PDCCH Info[2] -> Aggregation Level (1|2|4|8|16) :
+1
+PDCCH Info[2] -> Number of Candidates (1 ~ 8) :
+4
+PDCCH Info[2] -> Candidate Index (0 ~ num of candidates - 1) :
+0
+PDCCH Info[2] -> DCI Size :
+20
+PDCCH Info[2] -> PDCCH DMRS Scramling ID :
+-1
+PDCCH Info[2] -> Power Boosting :
+0
+PDCCH Info[2] -> DMRS Powe Boosting :
+0
+PDSCH info[0] -> State (0 : Off, 1 : On) :
+1
+PDSCH Info[0] -> General param -> RNTI :
+2
+PDSCH Info[0] -> General param -> n_ID :
+-1
+PDSCH Info[0] -> General param -> Power Boosting :
+0
+PDSCH Info[0] -> RA param -> BWP (0 ~ 4) :
+1
+PDSCH Info[0] -> RA param -> Allocated Slot (Range : 0 ~ 79) :
+1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0
+PDSCH Info[0] -> RA param -> First Symbol (0 ~ 13) :
+2
+PDSCH Info[0] -> RA param -> Last Symbol (First Symbol ~ 13) :
+13
+PDSCH Info[0] -> RA param -> RA Type (0 : Type 0, 1 : Type 1) :
+1
+PDSCH Info[0] -> RA param -> RB Offset :
+0
+PDSCH Info[0] -> RA param -> RB Number :
+1
+PDSCH Info[0] -> RA param -> VRB to PRB Mapping (0 : NonInterleav, 1 : Interleave) :
+0
+PDSCH Info[0] -> RA param -> VRB to PRB Interleave :
+2
+PDSCH Info[0] -> RA param -> PRB Bundle Size (2|4|5(Wideband)) :
+5
+PDSCH Info[0] -> MCS param -> Channel Coding (0 : Off, 1 : On) :
+0
+PDSCH Info[0] -> MCS param -> Modulation type (2 : QPSK, 4 : 16QAM, 6 : 64QAM, 8 : 256QAM) :
+8
+PDSCH Info[0] -> MCS param -> MCS Table (0 : 64QAM, 1 : 256QAM, 2 : 64QAM Low) :
+0
+PDSCH Info[0] -> MCS param -> MCS (0 ~ 28) :
+0
+PDSCH Info[0] -> MCS param -> xOverhead (0|6|12|18) :
+0
+PDSCH Info[0] -> MCS param -> TB Scaling Factor (1|0.5|0.25) :
+1
+PDSCH Info[0] -> DMRS param -> DMRS Downlink-r16 (0 : Off, 1 : On) :
+0
+PDSCH Info[0] -> DMRS param -> N_ID 0 :
+-1
+PDSCH Info[0] -> DMRS param -> N_ID 1 :
+-1
+PDSCH Info[0] -> DMRS param -> n_SCID (0 ~ 1) :
+0
+PDSCH Info[0] -> DMRS param -> DMRS Configuration (0 : Type1, 1 : Type2) :
+0
+PDSCH Info[0] -> DMRS param -> DMRS Duration (1 : Single, 2 : Double) :
+1
+PDSCH Info[0] -> DMRS param -> DMRS-add-pos (0 ~ 3) :
+1
+PDSCH Info[0] -> DMRS param -> PDSCH Mapping Type (0 : Type A, 1 : Type B) :
+0
+PDSCH Info[0] -> DMRS param -> DMRS TypeA-pos (2|3) :
+2
+PDSCH Info[0] -> DMRS param -> DMRS Mapping Ref (0 : CRB0, 1 : CORESET0) :
+0
+PDSCH Info[0] -> Transmission param -> Number of CDM Groups without data (1 ~ 3) :
+1
+PDSCH Info[0] -> Transmission param -> DMRS Port (0 ~ 11) :
+0
+PDSCH Info[0] -> PTRS param -> State (0 : Off, 1: On) :
+0
+PDSCH Info[0] -> PTRS param -> K_PTRS (2|4) :
+2
+PDSCH Info[0] -> PTRS param -> L_PTRS (1|2|4) :
+1
+PDSCH Info[0] -> PTRS param -> PTRS RE Offset (00|01|10|11) :
+00
+PDSCH Info[0] -> PTRS param -> Power Boosting :
+0
+PDSCH info[1] -> State (0 : Off, 1 : On) :
+1
+PDSCH Info[1] -> General param -> RNTI :
+2
+PDSCH Info[1] -> General param -> n_ID :
+-1
+PDSCH Info[1] -> General param -> Power Boosting :
+0
+PDSCH Info[1] -> RA param -> BWP (0 ~ 4) :
+1
+PDSCH Info[1] -> RA param -> Allocated Slot (Range : 0 ~ 79) :
+0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0
+PDSCH Info[1] -> RA param -> First Symbol (0 ~ 13) :
+2
+PDSCH Info[1] -> RA param -> Last Symbol (First Symbol ~ 13) :
+13
+PDSCH Info[1] -> RA param -> RA Type (0 : Type 0, 1 : Type 1) :
+1
+PDSCH Info[1] -> RA param -> RB Offset :
+136
+PDSCH Info[1] -> RA param -> RB Number :
+1
+PDSCH Info[1] -> RA param -> VRB to PRB Mapping (0 : NonInterleav, 1 : Interleave) :
+0
+PDSCH Info[1] -> RA param -> VRB to PRB Interleave :
+2
+PDSCH Info[1] -> RA param -> PRB Bundle Size (2|4|5(Wideband)) :
+5
+PDSCH Info[1] -> MCS param -> Channel Coding (0 : Off, 1 : On) :
+0
+PDSCH Info[1] -> MCS param -> Modulation type (2 : QPSK, 4 : 16QAM, 6 : 64QAM, 8 : 256QAM) :
+8
+PDSCH Info[1] -> MCS param -> MCS Table (0 : 64QAM, 1 : 256QAM, 2 : 64QAM Low) :
+0
+PDSCH Info[1] -> MCS param -> MCS (0 ~ 28) :
+0
+PDSCH Info[1] -> MCS param -> xOverhead (0|6|12|18) :
+0
+PDSCH Info[1] -> MCS param -> TB Scaling Factor (1|0.5|0.25) :
+1
+PDSCH Info[1] -> DMRS param -> DMRS Downlink-r16 (0 : Off, 1 : On) :
+0
+PDSCH Info[1] -> DMRS param -> N_ID 0 :
+-1
+PDSCH Info[1] -> DMRS param -> N_ID 1 :
+-1
+PDSCH Info[1] -> DMRS param -> n_SCID (0 ~ 1) :
+0
+PDSCH Info[1] -> DMRS param -> DMRS Configuration (0 : Type1, 1 : Type2) :
+0
+PDSCH Info[1] -> DMRS param -> DMRS Duration (1 : Single, 2 : Double) :
+1
+PDSCH Info[1] -> DMRS param -> DMRS-add-pos (0 ~ 3) :
+1
+PDSCH Info[1] -> DMRS param -> PDSCH Mapping Type (0 : Type A, 1 : Type B) :
+0
+PDSCH Info[1] -> DMRS param -> DMRS TypeA-pos (2|3) :
+2
+PDSCH Info[1] -> DMRS param -> DMRS Mapping Ref (0 : CRB0, 1 : CORESET0) :
+0
+PDSCH Info[1] -> Transmission param -> Number of CDM Groups without data (1 ~ 3) :
+1
+PDSCH Info[1] -> Transmission param -> DMRS Port (0 ~ 11) :
+0
+PDSCH Info[1] -> PTRS param -> State (0 : Off, 1: On) :
+0
+PDSCH Info[1] -> PTRS param -> K_PTRS (2|4) :
+2
+PDSCH Info[1] -> PTRS param -> L_PTRS (1|2|4) :
+1
+PDSCH Info[1] -> PTRS param -> PTRS RE Offset (00|01|10|11) :
+00
+PDSCH Info[1] -> PTRS param -> Power Boosting :
+0
+PDSCH info[2] -> State (0 : Off, 1 : On) :
+1
+PDSCH Info[2] -> General param -> RNTI :
+2
+PDSCH Info[2] -> General param -> n_ID :
+-1
+PDSCH Info[2] -> General param -> Power Boosting :
+0
+PDSCH Info[2] -> RA param -> BWP (0 ~ 4) :
+1
+PDSCH Info[2] -> RA param -> Allocated Slot (Range : 0 ~ 79) :
+0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 0
+PDSCH Info[2] -> RA param -> First Symbol (0 ~ 13) :
+2
+PDSCH Info[2] -> RA param -> Last Symbol (First Symbol ~ 13) :
+13
+PDSCH Info[2] -> RA param -> RA Type (0 : Type 0, 1 : Type 1) :
+1
+PDSCH Info[2] -> RA param -> RB Offset :
+272
+PDSCH Info[2] -> RA param -> RB Number :
+1
+PDSCH Info[2] -> RA param -> VRB to PRB Mapping (0 : NonInterleav, 1 : Interleave) :
+0
+PDSCH Info[2] -> RA param -> VRB to PRB Interleave :
+2
+PDSCH Info[2] -> RA param -> PRB Bundle Size (2|4|5(Wideband)) :
+5
+PDSCH Info[2] -> MCS param -> Channel Coding (0 : Off, 1 : On) :
+0
+PDSCH Info[2] -> MCS param -> Modulation type (2 : QPSK, 4 : 16QAM, 6 : 64QAM, 8 : 256QAM) :
+8
+PDSCH Info[2] -> MCS param -> MCS Table (0 : 64QAM, 1 : 256QAM, 2 : 64QAM Low) :
+0
+PDSCH Info[2] -> MCS param -> MCS (0 ~ 28) :
+0
+PDSCH Info[2] -> MCS param -> xOverhead (0|6|12|18) :
+0
+PDSCH Info[2] -> MCS param -> TB Scaling Factor (1|0.5|0.25) :
+1
+PDSCH Info[2] -> DMRS param -> DMRS Downlink-r16 (0 : Off, 1 : On) :
+0
+PDSCH Info[2] -> DMRS param -> N_ID 0 :
+-1
+PDSCH Info[2] -> DMRS param -> N_ID 1 :
+-1
+PDSCH Info[2] -> DMRS param -> n_SCID (0 ~ 1) :
+0
+PDSCH Info[2] -> DMRS param -> DMRS Configuration (0 : Type1, 1 : Type2) :
+0
+PDSCH Info[2] -> DMRS param -> DMRS Duration (1 : Single, 2 : Double) :
+1
+PDSCH Info[2] -> DMRS param -> DMRS-add-pos (0 ~ 3) :
+1
+PDSCH Info[2] -> DMRS param -> PDSCH Mapping Type (0 : Type A, 1 : Type B) :
+0
+PDSCH Info[2] -> DMRS param -> DMRS TypeA-pos (2|3) :
+2
+PDSCH Info[2] -> DMRS param -> DMRS Mapping Ref (0 : CRB0, 1 : CORESET0) :
+0
+PDSCH Info[2] -> Transmission param -> Number of CDM Groups without data (1 ~ 3) :
+1
+PDSCH Info[2] -> Transmission param -> DMRS Port (0 ~ 11) :
+0
+PDSCH Info[2] -> PTRS param -> State (0 : Off, 1: On) :
+0
+PDSCH Info[2] -> PTRS param -> K_PTRS (2|4) :
+2
+PDSCH Info[2] -> PTRS param -> L_PTRS (1|2|4) :
+1
+PDSCH Info[2] -> PTRS param -> PTRS RE Offset (00|01|10|11) :
+00
+PDSCH Info[2] -> PTRS param -> Power Boosting :
+0
