@@ -567,6 +567,21 @@ ds32s ds5G_nr_TM_Set_All_API(ds32s mode) {
 	case 7:
 		fopen_s(&fp, "set_param/parameter_set_TM3p3.txt", "r");
 		break;
+	case 8:
+		fopen_s(&fp, "set_param/parameter_set_TM1p1_FR2.txt", "r");
+		break;
+	case 9:
+		fopen_s(&fp, "set_param/parameter_set_TM2_FR2.txt", "r");
+		break;
+	case 10:
+		fopen_s(&fp, "set_param/parameter_set_TM2a_FR2.txt", "r");
+		break;
+	case 11:
+		fopen_s(&fp, "set_param/parameter_set_TM3p1_FR2.txt", "r");
+		break;
+	case 12:
+		fopen_s(&fp, "set_param/parameter_set_TM3p1a_FR2.txt", "r");
+		break;
 	}
 
 	if (fp == 0)
